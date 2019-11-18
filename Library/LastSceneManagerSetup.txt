@@ -1,6 +1,5 @@
 sceneSetups:
-- path: C:/workspace/EntityComponentSystemSamples-master/EntityComponentSystemSamples-master/ECSSamples/Assets/HelloCube/1.
-    ForEach/ForEach.unity
+- path: Assets/Scenes/Volcano.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

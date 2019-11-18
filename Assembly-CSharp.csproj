@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\ProceduralGrid.cs" />
     <Compile Include="Assets\Scripts\ProceduralMesh.cs" />
     <Compile Include="Assets\Scripts\SixVertexMesh.cs" />
+    <Compile Include="Assets\Scripts\VolcanoBase.cs" />
     <Compile Include="Assets\Scripts\YValue.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>Z:/NV_FinalProject/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
